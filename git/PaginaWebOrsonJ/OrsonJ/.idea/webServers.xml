@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5b4c9a84-d8ba-4a5b-8fc7-114bb337c62c" name="hostinger" url="http://ftp.orsonj.esy.es">
+        <fileTransfer host="ftp.orsonj.esy.es" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="0c944070-4d50-4372-8baf-ab10332a835f" name="hostinger2" url="http://ftp.departamentosTewc.esy.es">
+        <fileTransfer host="ftp.departamentosTewc.esy.es" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

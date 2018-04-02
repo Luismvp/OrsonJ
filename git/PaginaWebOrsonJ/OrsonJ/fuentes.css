@@ -1,0 +1,31 @@
+@font-face {
+    font-family:DancingScript;
+    src: url("fonts/Dancing_Script/DancingScript-Bold.ttf");
+    src: url("fonts/Dancing_Script/DancingScript-Regular.ttf");
+}
+@font-face {
+    font-family:Lobster;
+    src: url("fonts/Lobster/Lobster-Regular.ttf");
+}
+@font-face {
+    font-family:Pacifico;
+    src: url("fonts/Pacifico/Pacifico-Regular.ttf");
+
+}
+@font-face {
+    font-family:Rubik;
+    src: url("fonts/Rubik/Rubik-Light.ttf");
+
+}
+.fontDancing{
+    font-family: DancingScript;
+}
+.fontLobster{
+    font-family:Lobster;
+}
+.fontPacifico{
+    font-family: Pacifico;
+}
+.fontRubik{
+    font-family: Rubik;
+}
